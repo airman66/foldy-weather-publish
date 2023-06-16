@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/foldy-weather-publish/static/js/main.c05fe68a.js",
+    "static/js/920.cd745112.chunk.js": "/foldy-weather-publish/static/js/920.cd745112.chunk.js",
+    "static/css/713.a671d6a2.chunk.css": "/foldy-weather-publish/static/css/713.a671d6a2.chunk.css",
+    "static/js/713.0edbbbdb.chunk.js": "/foldy-weather-publish/static/js/713.0edbbbdb.chunk.js",
+    "static/js/151.55df1f84.chunk.js": "/foldy-weather-publish/static/js/151.55df1f84.chunk.js",
+    "index.html": "/foldy-weather-publish/index.html",
+    "main.c05fe68a.js.map": "/foldy-weather-publish/static/js/main.c05fe68a.js.map",
+    "920.cd745112.chunk.js.map": "/foldy-weather-publish/static/js/920.cd745112.chunk.js.map",
+    "713.a671d6a2.chunk.css.map": "/foldy-weather-publish/static/css/713.a671d6a2.chunk.css.map",
+    "713.0edbbbdb.chunk.js.map": "/foldy-weather-publish/static/js/713.0edbbbdb.chunk.js.map",
+    "151.55df1f84.chunk.js.map": "/foldy-weather-publish/static/js/151.55df1f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c05fe68a.js"
+  ]
+}

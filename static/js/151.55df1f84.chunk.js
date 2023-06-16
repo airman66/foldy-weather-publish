@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[151],{151:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var u=t(791),c=function(){return u.createElement("h1",null,"Foldy-weather")}}}]);
+//# sourceMappingURL=151.55df1f84.chunk.js.map
