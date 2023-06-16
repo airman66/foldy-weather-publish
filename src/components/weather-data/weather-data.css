@@ -1,0 +1,7 @@
+.weather-data-li {
+    margin-bottom: 10px;
+}
+
+.weather-data-li:last-child {
+    margin-bottom: 0px;
+}
